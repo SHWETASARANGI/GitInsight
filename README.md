@@ -180,6 +180,4 @@ These trade-offs were chosen to balance accuracy, performance, and API usage.
 
 ---
 
-## 📄 License
 
-This project is for educational and portfolio purposes.
